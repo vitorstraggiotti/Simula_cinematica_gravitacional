@@ -2,6 +2,7 @@
 * Algoritimo para simulação de efeitos gravitacionais em duas dimensões *
 * Data: 03/04/2020                                                      *
 * Autor: Vitor Henrique Andrade Helfensteller Straggiotti Silva         *
+* FALTA CODIFICAR A SAIDA DE DADOS PARA UM ARQUIVO TXT                  *
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
 
 #include<stdio.h>
